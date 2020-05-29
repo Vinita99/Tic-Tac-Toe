@@ -6,6 +6,4 @@ LANGUAGE - JAVA
 
 IDE - ANDROID STUDIO
 
-![test image size](ss1.jpg){:class="img-responsive"}
-![test image size](ss1.jpg){:height="50%" width="50%"}
-![test image size](ss1.jpg){:height="700px" width="400px"}
+![An image](ss1.jpg) <!-- .element height="50%" width="50%" -->
