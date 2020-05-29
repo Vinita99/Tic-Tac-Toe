@@ -7,5 +7,5 @@ LANGUAGE - JAVA
 IDE - ANDROID STUDIO
 
 ![](ss1.jpg)
-![](ss2.jpg)
 
+![](ss2.jpg)
