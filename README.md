@@ -6,5 +6,3 @@ LANGUAGE - JAVA
 
 IDE - ANDROID STUDIO
 
-![An image](tt1.jpg) <!-- .element height="50%" width="50%" -->
-![An image](tt2.jpg) <!-- .element height="50%" width="50%" -->
